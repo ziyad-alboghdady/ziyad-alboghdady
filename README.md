@@ -16,7 +16,7 @@ Software Engineering student focused on backend development, real-time systems, 
 
 <hr>
 
-## 👋 Hi, I’m Ziyad Mohamed Alboghdady
+## 👋 Hi, I’m Ziyad Alboghdady
 
 🎓 Software Engineering student at **Sakarya University**  
 ⚙️ Interested in **backend development, ASP.NET, databases, and real-time systems**  
