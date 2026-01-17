@@ -4,9 +4,9 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
 <details>
-<p><strong><summary> Busy coding & learning </summary></strong></p>
+<p><strong><summary> Busy coding & building systems </summary></strong></p>
 
-Focused on building backend systems, real-time applications, and strengthening software engineering fundamentals.
+Software Engineering student focused on backend development, real-time systems, and clean software design.
 
 </details>
 
@@ -15,6 +15,14 @@ Focused on building backend systems, real-time applications, and strengthening s
 </div>
 
 <hr>
+
+## 👋 Hi, I’m Ziyad Mohamed Alboghdady
+
+🎓 Software Engineering student at **Sakarya University**  
+⚙️ Interested in **backend development, ASP.NET, databases, and real-time systems**  
+🌍 **RISE Global Finalist (Top 500 students worldwide)**
+
+---
 
 ## 🚀 Tools & Technologies I Use
 
@@ -32,6 +40,8 @@ Focused on building backend systems, real-time applications, and strengthening s
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+
+---
 
 ```csharp
 // About Me (structured)
