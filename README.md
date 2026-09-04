@@ -4,8 +4,8 @@
 
 **Backend engineer** — C# / ASP.NET Core · Spring Boot · PostgreSQL · Docker
 
-Software Engineering student at Sakarya University (full merit scholarship · GPA 3.63/4.00 · 4.00 most recent semester)
-Machine-learning intrusion-detection research intern at the CyberSense Laboratory
+Software Engineering student at Sakarya University (full merit scholarship · GPA 3.63/4.00 · 4.00 most recent semester)<br>
+Machine-learning intrusion-detection research intern at the CyberSense Laboratory<br>
 Rise Global Finalist — top 500 worldwide of 131,000+ projects
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ziyad-alboghdady&style=flat&color=orange&label=PROFILE+VIEWS)
