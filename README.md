@@ -29,7 +29,8 @@ Rise Global Finalist — top 500 worldwide
 
 - **CyberSense Laboratory**, Sakarya University — machine-learning DDoS detection inside Snort 3; we're writing up what the model really learned
 - **Campusly** — eight-person course team project (ASP.NET Core 8 + React); project manager, backend structure and database
-- **FlyRank AI Internship** — Backend AI Engineering track ([polite-scraper](https://github.com/ziyad-alboghdady/polite-scraper), [pdf-report-generator](https://github.com/ziyad-alboghdady/pdf-report-generator))
+
+Completed in October 2026: the **FlyRank AI Internship** (AI Fluency and Backend AI Engineering tracks) — [polite-scraper](https://github.com/ziyad-alboghdady/polite-scraper), [pdf-report-generator](https://github.com/ziyad-alboghdady/pdf-report-generator)
 
 ---
 ## Tools & technologies
